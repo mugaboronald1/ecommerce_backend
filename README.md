@@ -1,0 +1,1 @@
+Implemented REST endpoints, controllers, and DTOs for cart management, admin operations, order handling, authentication, review, rating, user profile, and product retrieval in backend Spring Boot for ecommerce website.
